@@ -9,9 +9,8 @@ I'm CMarco, a Hobbyist Developer, Artist, Poet, Musician, and Undegraduate Indus
 
 ## 🌱 My Education ...
 
-> - AntiCheat and Cyber Security SpigotMC Development
-> - CAD and 3D Modeling.
-> - Linear Algebra and Parametric Curves.
+> - Diploma Liceo Scientifico "Scienze Applicate" (75/100).
+> - (Ongoing) Bachelor Degree in Industrial Design.
 
 ## 💬 Ask me about ...
 
