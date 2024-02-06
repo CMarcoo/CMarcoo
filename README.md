@@ -4,8 +4,8 @@ I'm CMarco, a Hobbyist Developer, Artist, Poet, Musician, and Undegraduate Indus
 
 ## 🔭 I’m Currently Working On ...
 
-> Making the world better through my works, my person, and by sharing the values of GOD.
-> LightLogin (SpigotMC Premium Authentication Software) and Aequitas Anticheat (NDA)
+> - Making the world better through my works, my person, and by sharing the values of GOD.
+> - LightLogin (SpigotMC Premium Authentication Software) and Aequitas Anticheat (NDA)
 
 ## 🌱 My Education ...
 
