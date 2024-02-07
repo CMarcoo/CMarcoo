@@ -23,11 +23,4 @@ I'm CMarco, a Hobbyist Developer, Artist, Poet, Musician, and Undegraduate Indus
 > - Email: cmarco.org@gmail.com
 
 ## 📈 My Developer stats ...
-[Imgur](https://imgur.com/R06Tqd1)
-
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+<img src="https://i.imgur.com/R06Tqd1.png" width="330" height="210" />
