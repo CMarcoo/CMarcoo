@@ -22,12 +22,8 @@ I'm CMarco, a Hobbyist Developer, Artist, Poet, Musician, and Undegraduate Indus
 
 > - Email: cmarco.org@gmail.com
 
-## 📈 My GitHub stats ...
-<a href="https://github.com/CMarcoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CMarcoo&show_icons=true&theme=synthwave" />
-</a> <a href="https://github.com/CMarcoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMarcoo&layout=compact&theme=synthwave" />
-</a>
+## 📈 My Developer stats ...
+[Imgur](https://imgur.com/R06Tqd1)
 
 
 <!--START_SECTION:waka-->
