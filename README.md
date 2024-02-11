@@ -1,10 +1,10 @@
 # Welcome to My World
 
-I'm CMarco, a Hobbyist Developer, Artist, Poet, Musician, and Undegraduate Industrial Designer.
+I'm CMarco, a Hobbyist Developer, Artist, Poet, Piano Musician, and Undegraduate Industrial Designer.
 
 ## 🔭 I’m Currently Working On ...
 
-> - Making the world better through my works, my person, and by sharing the values of GOD.
+> - Making the world better through my works, my person, and by sharing His values.
 > - LightLogin (SpigotMC Premium Authentication Software) and Aequitas Anticheat (NDA)
 
 ## 🌱 My Education ...
@@ -15,7 +15,7 @@ I'm CMarco, a Hobbyist Developer, Artist, Poet, Musician, and Undegraduate Indus
 ## 💬 Ask me about ...
 
 > - How to improve together ★
-> - Philosophy, Theology and Christianity
+> - Philosophy, Java, Sciences, etc...
 > - SpigotMC development and Minecraft.
 
 ## 📫 How to reach me ...
